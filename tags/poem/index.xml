@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Poem on Chenghao Li&#39;s Space</title>
-    <link>http://chenghaoli1.github.io/tags/poem/</link>
+    <link>http://localhost:4321/tags/poem/</link>
     <description>Recent content in Poem on Chenghao Li&#39;s Space</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://chenghaoli1.github.io/tags/poem/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/tags/poem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>蔡襄《十三日吉祥院探花》</title>
-      <link>http://chenghaoli1.github.io/post/2024/06/27/%E8%94%A1%E8%A5%84%E5%8D%81%E4%B8%89%E6%97%A5%E5%90%89%E7%A5%A5%E9%99%A2%E6%8E%A2%E8%8A%B1/</link>
+      <link>http://localhost:4321/post/2024/06/27/%E8%94%A1%E8%A5%84%E5%8D%81%E4%B8%89%E6%97%A5%E5%90%89%E7%A5%A5%E9%99%A2%E6%8E%A2%E8%8A%B1/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://chenghaoli1.github.io/post/2024/06/27/%E8%94%A1%E8%A5%84%E5%8D%81%E4%B8%89%E6%97%A5%E5%90%89%E7%A5%A5%E9%99%A2%E6%8E%A2%E8%8A%B1/</guid>
+      <guid>http://localhost:4321/post/2024/06/27/%E8%94%A1%E8%A5%84%E5%8D%81%E4%B8%89%E6%97%A5%E5%90%89%E7%A5%A5%E9%99%A2%E6%8E%A2%E8%8A%B1/</guid>
       <description>《十三日吉祥院探花》1&#xA;[宋代] 蔡襄2&#xA;花未全开月未圆，看花待月思依然。&#xA;明知花月无情物，若使多情更可怜。&#xA;译文&#xA;花还没有全开，月还没有全圆，可我仍旧看花赏月，盼望花开月圆的到来。&#xA;明知花和月是无情无感的东西，（花开会谢、月盈转亏本就很令人感伤了）。假使他们和我一样有情有感，岂不是让它们更加令人怜惜了&#xA;蔡襄-山堂诗帖&#xD;古诗文网&amp;#160;&amp;#x21a9;&amp;#xfe0e;&#xA;蔡襄-Wikipedia&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
   </channel>

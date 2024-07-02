@@ -2,45 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Chenghao Li&#39;s Space</title>
-    <link>http://chenghaoli1.github.io/</link>
+    <link>http://localhost:4321/</link>
     <description>Recent content in Home on Chenghao Li&#39;s Space</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://chenghaoli1.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>职业选择的烦恼</title>
+      <link>http://localhost:4321/note/2024-07-02-/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/note/2024-07-02-/</guid>
+      <description>博三到今年10月就结束了，按照华威大学博士课程的学制。三年半里面，三年用来做研究最后半年写大论文。忙着把课题收尾的同时，最近也开始规划毕业的求职。虽然在22年就一直积极寻找英国的实习，最后因为各种原因没有拿到实习offer，但也积攒了一些经验。最重要的经验就是找工作难，博士找工作也很难！&#xA;对我而言，其实这个难主要出于未来职业规划和自身定位的矛盾。我在博士期间确定了未来想要投身工业界的志向，主要原因是想要做一些更多能够产生实际效益的工作。然而对于工业界，我对各个行业的认识还是太少，以至于我一时间很难确定我的专业所学和技能到底能够去什么样的行业，更别提什么企业了。&#xA;为了尽快弥补这些信息差，因此近期的几大任务是：&#xA;在不大跨行的条件下，广泛了解热能工程专业能够涉足的工业领域有哪些； 动用网络和校友资源，了解这些工业领域中的企业及企业的优劣势和文化； 充分了解和挖掘自身的专业技能和偏好的工作环境和条件。 虽然求职不易，但是困难大家都是一样的，加油，与你共勉！&#xA;“长风破浪会有时，直挂云帆济沧海”。——李白</description>
+    </item>
     <item>
       <title>Football Team Photo</title>
-      <link>http://chenghaoli1.github.io/post/2024/06/30/football-team-photo/</link>
+      <link>http://localhost:4321/post/2024/06/30/football-team-photo/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://chenghaoli1.github.io/post/2024/06/30/football-team-photo/</guid>
+      <guid>http://localhost:4321/post/2024/06/30/football-team-photo/</guid>
       <description>Today our football team, Warwick Origin Point Football Club (华威原点足球俱乐部), get a photographer coming to our training match and take some photos.&#xA;Team photo, me at middle in back row&#xD;</description>
     </item>
     <item>
       <title>Reflections on the Birmingham Decarbonisation Summer School (BDSS)</title>
-      <link>http://chenghaoli1.github.io/post/2024/06/30/reflections-on-the-summer-school/</link>
+      <link>http://localhost:4321/post/2024/06/30/reflections-on-the-summer-school/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://chenghaoli1.github.io/post/2024/06/30/reflections-on-the-summer-school/</guid>
+      <guid>http://localhost:4321/post/2024/06/30/reflections-on-the-summer-school/</guid>
       <description>Group Photo on Day one in BDSS&#xD;I attended the Birmingham Decarsbonisation Summer School (BDSS) two weeks ago. It was 5 amazing days in the beautiful and historic University of Birmingham. I met some brilliant PhD researchers and post-docs during the event. Industrial experts from National Grid, SSEN, GE Vernova, and many more gave very technical talks. I learnt an awful of insights and knowledge about electrical power system and the challenges the UK&amp;rsquo;s National Grid (NG) is facing in the renewable energy era.</description>
     </item>
     <item>
       <title>蔡襄《十三日吉祥院探花》</title>
-      <link>http://chenghaoli1.github.io/post/2024/06/27/%E8%94%A1%E8%A5%84%E5%8D%81%E4%B8%89%E6%97%A5%E5%90%89%E7%A5%A5%E9%99%A2%E6%8E%A2%E8%8A%B1/</link>
+      <link>http://localhost:4321/post/2024/06/27/%E8%94%A1%E8%A5%84%E5%8D%81%E4%B8%89%E6%97%A5%E5%90%89%E7%A5%A5%E9%99%A2%E6%8E%A2%E8%8A%B1/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://chenghaoli1.github.io/post/2024/06/27/%E8%94%A1%E8%A5%84%E5%8D%81%E4%B8%89%E6%97%A5%E5%90%89%E7%A5%A5%E9%99%A2%E6%8E%A2%E8%8A%B1/</guid>
+      <guid>http://localhost:4321/post/2024/06/27/%E8%94%A1%E8%A5%84%E5%8D%81%E4%B8%89%E6%97%A5%E5%90%89%E7%A5%A5%E9%99%A2%E6%8E%A2%E8%8A%B1/</guid>
       <description>《十三日吉祥院探花》1&#xA;[宋代] 蔡襄2&#xA;花未全开月未圆，看花待月思依然。&#xA;明知花月无情物，若使多情更可怜。&#xA;译文&#xA;花还没有全开，月还没有全圆，可我仍旧看花赏月，盼望花开月圆的到来。&#xA;明知花和月是无情无感的东西，（花开会谢、月盈转亏本就很令人感伤了）。假使他们和我一样有情有感，岂不是让它们更加令人怜惜了&#xA;蔡襄-山堂诗帖&#xD;古诗文网&amp;#160;&amp;#x21a9;&amp;#xfe0e;&#xA;蔡襄-Wikipedia&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
     <item>
       <title>After I spent over 400£, I realised...</title>
-      <link>http://chenghaoli1.github.io/post/2024/06/26/after-i-spent-over-400-i-realised/</link>
+      <link>http://localhost:4321/post/2024/06/26/after-i-spent-over-400-i-realised/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://chenghaoli1.github.io/post/2024/06/26/after-i-spent-over-400-i-realised/</guid>
+      <guid>http://localhost:4321/post/2024/06/26/after-i-spent-over-400-i-realised/</guid>
       <description>I spent over 400£ on betting on EURO Cup 2024 and I lost 144£ .&#xA;Of course, it might not sound too much, but the point I want to make is not how much I lost rather what lessons I got from it and what YOU can to do avoid.&#xA;Realisations stroke me last night when I lost 18 consecutive bets. No matter what strategy I use or how smart I think I can beat the bookmaker, statistically I will lose on the long run, this is how the bookmakers make money from the bettors.</description>
     </item>
     <item>
       <title>Curriculum Vitae</title>
-      <link>http://chenghaoli1.github.io/about/</link>
+      <link>http://localhost:4321/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://chenghaoli1.github.io/about/</guid>
+      <guid>http://localhost:4321/about/</guid>
       <description>Education 2021-present PhD in Engineering | University of Warwick | United Kingdom 2018-2021 MSc in Power Engineering | Central South University | China 2014-2018 BSc in New Energy Science&amp;amp;Technology | Central South University | China Selected Publications The full list of the publications please refer to google scholar or ResearchGate&#xA;Journal articles&#xA;A semi-analytic method for buoyancy-induced thermal stratification in hot water tanks during standby periods | DOI | Applied Thermal Engineering | 2024.</description>
     </item>
   </channel>

@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="/css/fonts.css" />
     <meta name="google-site-verification" content="OsLCkPvEIfCBek087TR8tn0CbPGUhnEUxBZe8OLj-8E" />
 
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:4321/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:4321/images/favicon.png">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
   </head>
@@ -46,6 +46,27 @@
 </figure>
 
 </main>
+
+<div id="disqus_thread"></div>
+<script>
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "http-chenghaoli1-github-io" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
   <footer>
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex/dist/katex.min.css">

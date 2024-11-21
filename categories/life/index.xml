@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Life on Chenghao Li&#39;s Space</title>
-    <link>http://localhost:4321/categories/life/</link>
+    <link>http://chenghaoli1.github.io/categories/life/</link>
     <description>Recent content in Life on Chenghao Li&#39;s Space</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4321/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://chenghaoli1.github.io/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Online resources for improving english speaking</title>
+      <link>http://chenghaoli1.github.io/post/2024/11/21/online-resources-for-improving-english-speaking/</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://chenghaoli1.github.io/post/2024/11/21/online-resources-for-improving-english-speaking/</guid>
+      <description>Obviously, speaking good English is essential to live in the UK. And as a non-native speaker, I often feel there are so many things I need to learn to improve my English speaking skills. Fluency is an important aspect, but not the only thing I should look at. Using the RIGHT works, the way I say it (tone, intonation, accent), and maybe a touch of humor:) can make a huge difference.</description>
+    </item>
     <item>
       <title>Football Team Photo</title>
-      <link>http://localhost:4321/post/2024/06/30/football-team-photo/</link>
+      <link>http://chenghaoli1.github.io/post/2024/06/30/football-team-photo/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/2024/06/30/football-team-photo/</guid>
+      <guid>http://chenghaoli1.github.io/post/2024/06/30/football-team-photo/</guid>
       <description>Today our football team, Warwick Origin Point Football Club (华威原点足球俱乐部), get a photographer coming to our training match and take some photos. Team photo, me at middle in back row</description>
     </item>
     <item>
       <title>After I spent over 400 GBP, I realised...</title>
-      <link>http://localhost:4321/post/2024/06/26/after-i-spent-over-400-i-realised/</link>
+      <link>http://chenghaoli1.github.io/post/2024/06/26/after-i-spent-over-400-i-realised/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/2024/06/26/after-i-spent-over-400-i-realised/</guid>
+      <guid>http://chenghaoli1.github.io/post/2024/06/26/after-i-spent-over-400-i-realised/</guid>
       <description>I spent over 400 quid on betting on EURO Cup 2024 and I lost 144. Of course, it might not sound too much, but the point I want to make is not how much I lost rather what lessons I got from it and what YOU can to do avoid. Realisations stroke me last night when I lost 18 consecutive bets. No matter what strategy I use or how smart</description>
     </item>
   </channel>

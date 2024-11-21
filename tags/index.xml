@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Chenghao Li&#39;s Space</title>
-    <link>http://localhost:4321/tags/</link>
+    <link>http://chenghaoli1.github.io/tags/</link>
     <description>Recent content in Tags on Chenghao Li&#39;s Space</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://chenghaoli1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>职业选择</title>
-      <link>http://localhost:4321/tags/%E8%81%8C%E4%B8%9A%E9%80%89%E6%8B%A9/</link>
+      <link>http://chenghaoli1.github.io/tags/%E8%81%8C%E4%B8%9A%E9%80%89%E6%8B%A9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/%E8%81%8C%E4%B8%9A%E9%80%89%E6%8B%A9/</guid>
+      <guid>http://chenghaoli1.github.io/tags/%E8%81%8C%E4%B8%9A%E9%80%89%E6%8B%A9/</guid>
       <description></description>
     </item>
     <item>
       <title>Football</title>
-      <link>http://localhost:4321/tags/football/</link>
+      <link>http://chenghaoli1.github.io/tags/football/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/football/</guid>
+      <guid>http://chenghaoli1.github.io/tags/football/</guid>
       <description></description>
     </item>
     <item>
       <title>Networking</title>
-      <link>http://localhost:4321/tags/networking/</link>
+      <link>http://chenghaoli1.github.io/tags/networking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/networking/</guid>
+      <guid>http://chenghaoli1.github.io/tags/networking/</guid>
       <description></description>
     </item>
     <item>
       <title>SummerSchool</title>
-      <link>http://localhost:4321/tags/summerschool/</link>
+      <link>http://chenghaoli1.github.io/tags/summerschool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/summerschool/</guid>
+      <guid>http://chenghaoli1.github.io/tags/summerschool/</guid>
       <description></description>
     </item>
     <item>
       <title>Teamwork</title>
-      <link>http://localhost:4321/tags/teamwork/</link>
+      <link>http://chenghaoli1.github.io/tags/teamwork/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/teamwork/</guid>
+      <guid>http://chenghaoli1.github.io/tags/teamwork/</guid>
       <description></description>
     </item>
     <item>
       <title>Poem</title>
-      <link>http://localhost:4321/tags/poem/</link>
+      <link>http://chenghaoli1.github.io/tags/poem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/poem/</guid>
+      <guid>http://chenghaoli1.github.io/tags/poem/</guid>
       <description></description>
     </item>
     <item>
       <title>中文</title>
-      <link>http://localhost:4321/tags/%E4%B8%AD%E6%96%87/</link>
+      <link>http://chenghaoli1.github.io/tags/%E4%B8%AD%E6%96%87/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/%E4%B8%AD%E6%96%87/</guid>
+      <guid>http://chenghaoli1.github.io/tags/%E4%B8%AD%E6%96%87/</guid>
       <description></description>
     </item>
     <item>
       <title>Bet</title>
-      <link>http://localhost:4321/tags/bet/</link>
+      <link>http://chenghaoli1.github.io/tags/bet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/bet/</guid>
+      <guid>http://chenghaoli1.github.io/tags/bet/</guid>
       <description></description>
     </item>
     <item>
       <title>Euro2024</title>
-      <link>http://localhost:4321/tags/euro2024/</link>
+      <link>http://chenghaoli1.github.io/tags/euro2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/euro2024/</guid>
+      <guid>http://chenghaoli1.github.io/tags/euro2024/</guid>
       <description></description>
     </item>
     <item>
       <title>Finance</title>
-      <link>http://localhost:4321/tags/finance/</link>
+      <link>http://chenghaoli1.github.io/tags/finance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/finance/</guid>
+      <guid>http://chenghaoli1.github.io/tags/finance/</guid>
       <description></description>
     </item>
   </channel>

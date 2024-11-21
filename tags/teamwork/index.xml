@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teamwork on Chenghao Li&#39;s Space</title>
-    <link>http://localhost:4321/tags/teamwork/</link>
+    <link>http://chenghaoli1.github.io/tags/teamwork/</link>
     <description>Recent content in Teamwork on Chenghao Li&#39;s Space</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4321/tags/teamwork/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://chenghaoli1.github.io/tags/teamwork/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reflections on the Birmingham Decarbonisation Summer School (BDSS)</title>
-      <link>http://localhost:4321/post/2024/06/30/reflections-on-the-summer-school/</link>
+      <link>http://chenghaoli1.github.io/post/2024/06/30/reflections-on-the-summer-school/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/2024/06/30/reflections-on-the-summer-school/</guid>
+      <guid>http://chenghaoli1.github.io/post/2024/06/30/reflections-on-the-summer-school/</guid>
       <description>Group Photo on Day one in BDSS&#xD;I attended the Birmingham Decarsbonisation Summer School (BDSS) two weeks ago. It was 5 amazing days in the beautiful and historic University of Birmingham. I met some brilliant PhD researchers and post-docs during the event. Industrial experts from National Grid, SSEN, GE Vernova, and many more gave very technical talks. I learnt an awful of insights and knowledge about electrical power system and the challenges the UK&amp;rsquo;s National Grid (NG) is facing in the renewable energy era.</description>
     </item>
   </channel>

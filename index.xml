@@ -2,59 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chenghao Li&#39;s Space</title>
-    <link>http://chenghaoli1.github.io/</link>
+    <link>http://localhost:4321/</link>
     <description>Recent content on Chenghao Li&#39;s Space</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://chenghaoli1.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first internship experience, and things I learned</title>
+      <link>http://localhost:4321/post/2024/12/01/my-first-internship-experience/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/post/2024/12/01/my-first-internship-experience/</guid>
+      <description>This autumn will leave an important mark on my career life, because in the first time in my life I joined a company for an internship. It was a bite-size internship though (one month, inc. a 7-day national holiday), but at least I can say that my career canvas is now not totally blank (still blank if you see from far I guess).&#xA;Anyway, a brief wrap-up for this experience. The company is HeatMate New Energy Technology, and it is based in Shanghai, China.</description>
+    </item>
     <item>
       <title>Online resources for improving english speaking</title>
-      <link>http://chenghaoli1.github.io/post/2024/11/21/online-resources-for-improving-english-speaking/</link>
+      <link>http://localhost:4321/post/2024/11/21/online-resources-for-improving-english-speaking/</link>
       <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://chenghaoli1.github.io/post/2024/11/21/online-resources-for-improving-english-speaking/</guid>
+      <guid>http://localhost:4321/post/2024/11/21/online-resources-for-improving-english-speaking/</guid>
       <description>Obviously, speaking good English is essential to live in the UK. And as a non-native speaker, I often feel there are so many things I need to learn to improve my English speaking skills. Fluency is an important aspect, but not the only thing I should look at. Using the RIGHT works, the way I say it (tone, intonation, accent), and maybe a touch of humor:) can make a huge difference.</description>
     </item>
     <item>
       <title>职业选择的烦恼</title>
-      <link>http://chenghaoli1.github.io/note/2024/07/02/%E8%81%8C%E4%B8%9A%E9%80%89%E6%8B%A9%E7%9A%84%E7%83%A6%E6%81%BC/</link>
+      <link>http://localhost:4321/note/2024/07/02/%E8%81%8C%E4%B8%9A%E9%80%89%E6%8B%A9%E7%9A%84%E7%83%A6%E6%81%BC/</link>
       <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://chenghaoli1.github.io/note/2024/07/02/%E8%81%8C%E4%B8%9A%E9%80%89%E6%8B%A9%E7%9A%84%E7%83%A6%E6%81%BC/</guid>
+      <guid>http://localhost:4321/note/2024/07/02/%E8%81%8C%E4%B8%9A%E9%80%89%E6%8B%A9%E7%9A%84%E7%83%A6%E6%81%BC/</guid>
       <description>博三到今年10月就结束了，按照华威大学博士课程的学制。三年半里面，三年用来做研究最后半年写大论文。忙着把课题收尾的同时，最近也开始规划毕业的</description>
     </item>
     <item>
       <title>Football Team Photo</title>
-      <link>http://chenghaoli1.github.io/post/2024/06/30/football-team-photo/</link>
+      <link>http://localhost:4321/post/2024/06/30/football-team-photo/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://chenghaoli1.github.io/post/2024/06/30/football-team-photo/</guid>
+      <guid>http://localhost:4321/post/2024/06/30/football-team-photo/</guid>
       <description>Today our football team, Warwick Origin Point Football Club (华威原点足球俱乐部), get a photographer coming to our training match and take some photos. Team photo, me at middle in back row</description>
     </item>
     <item>
       <title>Reflections on the Birmingham Decarbonisation Summer School (BDSS)</title>
-      <link>http://chenghaoli1.github.io/post/2024/06/30/reflections-on-the-summer-school/</link>
+      <link>http://localhost:4321/post/2024/06/30/reflections-on-the-summer-school/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://chenghaoli1.github.io/post/2024/06/30/reflections-on-the-summer-school/</guid>
+      <guid>http://localhost:4321/post/2024/06/30/reflections-on-the-summer-school/</guid>
       <description>Group Photo on Day one in BDSS&#xD;I attended the Birmingham Decarsbonisation Summer School (BDSS) two weeks ago. It was 5 amazing days in the beautiful and historic University of Birmingham. I met some brilliant PhD researchers and post-docs during the event. Industrial experts from National Grid, SSEN, GE Vernova, and many more gave very technical talks. I learnt an awful of insights and knowledge about electrical power system and the challenges the UK&amp;rsquo;s National Grid (NG) is facing in the renewable energy era.</description>
     </item>
     <item>
       <title>蔡襄《十三日吉祥院探花》</title>
-      <link>http://chenghaoli1.github.io/post/2024/06/27/%E8%94%A1%E8%A5%84%E5%8D%81%E4%B8%89%E6%97%A5%E5%90%89%E7%A5%A5%E9%99%A2%E6%8E%A2%E8%8A%B1/</link>
+      <link>http://localhost:4321/post/2024/06/27/%E8%94%A1%E8%A5%84%E5%8D%81%E4%B8%89%E6%97%A5%E5%90%89%E7%A5%A5%E9%99%A2%E6%8E%A2%E8%8A%B1/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://chenghaoli1.github.io/post/2024/06/27/%E8%94%A1%E8%A5%84%E5%8D%81%E4%B8%89%E6%97%A5%E5%90%89%E7%A5%A5%E9%99%A2%E6%8E%A2%E8%8A%B1/</guid>
+      <guid>http://localhost:4321/post/2024/06/27/%E8%94%A1%E8%A5%84%E5%8D%81%E4%B8%89%E6%97%A5%E5%90%89%E7%A5%A5%E9%99%A2%E6%8E%A2%E8%8A%B1/</guid>
       <description>《十三日吉祥院探花》1 [宋代] 蔡襄2 花未全开月未圆，看花待月思依然。 明知花月无情物，若使多情更可怜。 译文 花还没有全开，月还没有全圆，可我仍旧</description>
     </item>
     <item>
       <title>After I spent over 400 GBP, I realised...</title>
-      <link>http://chenghaoli1.github.io/post/2024/06/26/after-i-spent-over-400-i-realised/</link>
+      <link>http://localhost:4321/post/2024/06/26/after-i-spent-over-400-i-realised/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://chenghaoli1.github.io/post/2024/06/26/after-i-spent-over-400-i-realised/</guid>
+      <guid>http://localhost:4321/post/2024/06/26/after-i-spent-over-400-i-realised/</guid>
       <description>I spent over 400 quid on betting on EURO Cup 2024 and I lost 144. Of course, it might not sound too much, but the point I want to make is not how much I lost rather what lessons I got from it and what YOU can to do avoid. Realisations stroke me last night when I lost 18 consecutive bets. No matter what strategy I use or how smart</description>
     </item>
     <item>
       <title>Curriculum Vitae</title>
-      <link>http://chenghaoli1.github.io/about/</link>
+      <link>http://localhost:4321/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://chenghaoli1.github.io/about/</guid>
+      <guid>http://localhost:4321/about/</guid>
       <description>Education 2021-present PhD in Engineering | University of Warwick | United Kingdom 2018-2021 MSc in Power Engineering | Central South University | China 2014-2018 BSc in New Energy Science&amp;amp;Technology | Central South University | China Selected Publications The full list of the publications please refer to google scholar or ResearchGate&#xA;Journal articles&#xA;A semi-analytic method for buoyancy-induced thermal stratification in hot water tanks during standby periods | DOI | Applied Thermal Engineering | 2024.</description>
     </item>
   </channel>

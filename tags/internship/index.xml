@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internship on Chenghao Li&#39;s Space</title>
+    <link>http://localhost:4321/tags/internship/</link>
+    <description>Recent content in Internship on Chenghao Li&#39;s Space</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/internship/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first internship experience, and things I learned</title>
+      <link>http://localhost:4321/post/2024/12/01/my-first-internship-experience/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/post/2024/12/01/my-first-internship-experience/</guid>
+      <description>This autumn will leave an important mark on my career life, because in the first time in my life I joined a company for an internship. It was a bite-size internship though (one month, inc. a 7-day national holiday), but at least I can say that my career canvas is now not totally blank (still blank if you see from far I guess).&#xA;Anyway, a brief wrap-up for this experience. The company is HeatMate New Energy Technology, and it is based in Shanghai, China.</description>
+    </item>
+  </channel>
+</rss>

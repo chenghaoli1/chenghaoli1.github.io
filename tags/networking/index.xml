@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Networking on Chenghao Li&#39;s Space</title>
-    <link>http://chenghaoli1.github.io/tags/networking/</link>
+    <link>http://localhost:4321/tags/networking/</link>
     <description>Recent content in Networking on Chenghao Li&#39;s Space</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://chenghaoli1.github.io/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first internship experience, and things I learned</title>
+      <link>http://localhost:4321/post/2024/12/01/my-first-internship-experience/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/post/2024/12/01/my-first-internship-experience/</guid>
+      <description>This autumn will leave an important mark on my career life, because in the first time in my life I joined a company for an internship. It was a bite-size internship though (one month, inc. a 7-day national holiday), but at least I can say that my career canvas is now not totally blank (still blank if you see from far I guess).&#xA;Anyway, a brief wrap-up for this experience. The company is HeatMate New Energy Technology, and it is based in Shanghai, China.</description>
+    </item>
     <item>
       <title>Reflections on the Birmingham Decarbonisation Summer School (BDSS)</title>
-      <link>http://chenghaoli1.github.io/post/2024/06/30/reflections-on-the-summer-school/</link>
+      <link>http://localhost:4321/post/2024/06/30/reflections-on-the-summer-school/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://chenghaoli1.github.io/post/2024/06/30/reflections-on-the-summer-school/</guid>
+      <guid>http://localhost:4321/post/2024/06/30/reflections-on-the-summer-school/</guid>
       <description>Group Photo on Day one in BDSS&#xD;I attended the Birmingham Decarsbonisation Summer School (BDSS) two weeks ago. It was 5 amazing days in the beautiful and historic University of Birmingham. I met some brilliant PhD researchers and post-docs during the event. Industrial experts from National Grid, SSEN, GE Vernova, and many more gave very technical talks. I learnt an awful of insights and knowledge about electrical power system and the challenges the UK&amp;rsquo;s National Grid (NG) is facing in the renewable energy era.</description>
     </item>
   </channel>

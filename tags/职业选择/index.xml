@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>职业选择 on Chenghao Li&#39;s Space</title>
-    <link>http://chenghaoli1.github.io/tags/%E8%81%8C%E4%B8%9A%E9%80%89%E6%8B%A9/</link>
+    <link>http://localhost:4321/tags/%E8%81%8C%E4%B8%9A%E9%80%89%E6%8B%A9/</link>
     <description>Recent content in 职业选择 on Chenghao Li&#39;s Space</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://chenghaoli1.github.io/tags/%E8%81%8C%E4%B8%9A%E9%80%89%E6%8B%A9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/tags/%E8%81%8C%E4%B8%9A%E9%80%89%E6%8B%A9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>职业选择的烦恼</title>
-      <link>http://chenghaoli1.github.io/note/2024/07/02/%E8%81%8C%E4%B8%9A%E9%80%89%E6%8B%A9%E7%9A%84%E7%83%A6%E6%81%BC/</link>
+      <link>http://localhost:4321/note/2024/07/02/%E8%81%8C%E4%B8%9A%E9%80%89%E6%8B%A9%E7%9A%84%E7%83%A6%E6%81%BC/</link>
       <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://chenghaoli1.github.io/note/2024/07/02/%E8%81%8C%E4%B8%9A%E9%80%89%E6%8B%A9%E7%9A%84%E7%83%A6%E6%81%BC/</guid>
+      <guid>http://localhost:4321/note/2024/07/02/%E8%81%8C%E4%B8%9A%E9%80%89%E6%8B%A9%E7%9A%84%E7%83%A6%E6%81%BC/</guid>
       <description>博三到今年10月就结束了，按照华威大学博士课程的学制。三年半里面，三年用来做研究最后半年写大论文。忙着把课题收尾的同时，最近也开始规划毕业的</description>
     </item>
   </channel>
